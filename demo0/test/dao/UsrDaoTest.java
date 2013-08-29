@@ -14,6 +14,7 @@ public class UsrDaoTest {
 	@Test
 	public void testAdd() {
 		fail("Not yet implemented");
+		//test
 	}
 
 	@Test
